@@ -1,2 +1,2 @@
-# PRODIGY_WD_01
- Create an interactive navigation menu that changes color or style when scrolled or when hovering over a menu item. The navigation menu should have a fixed position and be visible on all pages. Use HTML to structure the menu, CSS to style it, and JavaScript to add interactivity, such as changing the background color or font color of the menu when it is scrolled or when a menu item is hovered over.
+#_Landing_Page
+A landing page is a carefully crafted web page designed with a specific purpose in mind, typically related to marketing and online business activities. It serves as the first point of contact between a website visitor and a business or organization. This is a landing page for a flower shop.
